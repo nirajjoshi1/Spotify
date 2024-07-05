@@ -1,0 +1,39 @@
+
+.border{
+    border: 2px solid #000;
+}
+
+.flex{
+    display: flex;
+}
+
+/* .bg-black{
+    background-color: black;
+    color: #fff;
+}
+.bg-gray{
+    background-color: #121212;
+} */
+
+.gap-1{ 
+    grid-area: 20px;
+}
+.img{
+    width: 14px;}
+.m-1{
+    margin: 6px;
+}
+.p-1{
+    padding: 14px;
+}
+.rounded{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.invert{
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
